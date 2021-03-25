@@ -30,7 +30,7 @@ public class Practise1 {
 
 		System.out.println(str.substring(8));
 		
-		
+		System.out.println(str.substring(6));
 		
 		
 		
